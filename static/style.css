@@ -1,0 +1,20 @@
+.jumbotron {
+  background-color: #baaa49;
+  margin-top: 25px !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.container {
+  margin-top: 0%;
+ }
+
+h1 {
+  font-family: "Audiowide";
+}
+.plot-container {
+  margin: 20px;
+}
+body {
+  background-color: #fcf8e3;
+  font-family: "Audiowide";
+}
